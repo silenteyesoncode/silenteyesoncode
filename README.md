@@ -51,4 +51,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/iMonk"><img src="https://img.shields.io/badge/-iMonk%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/iMonk"><img src="https://img.shields.io/badge/-iMonk%20-0077B5?style=flat&logo=Linkedin&logoColor=white" width='20'/></a>
