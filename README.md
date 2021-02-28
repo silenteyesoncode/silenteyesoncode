@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I play table tennis and pursue video editing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at 7silenteye007@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at 7silenteyes007@gmail.com I'll try to respond as soon as I can.\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
