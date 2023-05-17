@@ -9,12 +9,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+👨‍💼 &nbsp;Founder of [The Unleashed Club](https://github.com/The-Unleashed-Club) - a community for tech enthusiasts and learners to collaborate and share knowledge.
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I Graduated with Information Technology at the JSSATE NOIDA 62.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Mobile Development.\
 ✍️ &nbsp;In my free time, I play table tennis and pursue video editing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at 7silenteyes007@gmail.com I'll try to respond as soon as I can.
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -57,3 +60,4 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/iMonk"><img src="https://img.shields.io/badge/-iMonk%20-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://github.com/The-Unleashed-Club"><img src="https://img.shields.io/badge/-The%20Unleashed%20Club-000000?style=flat&logo=github&logoColor=white" /></a>
