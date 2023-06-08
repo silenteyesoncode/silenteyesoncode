@@ -22,6 +22,18 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+## Portfolio
+
+1. [Contango](https://wildwolf.io/contango/) - Web application that classifies news articles into categories and keeps track of past classification requests.
+2. [AI-Powered News Article Classifier](https://github.com/silenteyesoncode/AI-Powered-News-Article-Classifier-with-History) - Web application that classifies news articles into categories and keeps track of past classification requests.
+3. [Portfoliyo](https://laughing-pike-46159b.netlify.app/) - Web application for company's landing page.
+4. [OpenMind](https://github.com/The-Unleashed-Club/openMind) - A chat app which helps you have better communication with people using OpenAI machinery.
+5. [GitHub User Finder](https://github.com/silenteyesoncode/Github_User_finder) - A web app that retrieves GitHub profiles by inputting the username.
+6. [E-corp](https://github.com/silenteyesoncode/E-corp) - An e-commerce web app that allows you to shop for clothing items.
+7. [Speech Text Reader](https://github.com/silenteyesoncode/speech-text-reader) - A text-to-speech app for non-verbal people, using the Web Speech API.
+8. [Table Management App](https://github.com/silenteyesoncode/Mob_DAT) - A mobile application built with Node.js that allows users to create and manage tables dynamically.
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
