@@ -18,10 +18,6 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at 7silenteyes007@gmail.com I'll try to respond as soon as I can.
 
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ## Portfolio
 
 1. [Contango](https://wildwolf.io/contango/) - Web application that classifies news articles into categories and keeps track of past classification requests.
@@ -33,6 +29,9 @@
 7. [Speech Text Reader](https://github.com/silenteyesoncode/speech-text-reader) - A text-to-speech app for non-verbal people, using the Web Speech API.
 8. [Table Management App](https://github.com/silenteyesoncode/Mob_DAT) - A mobile application built with Node.js that allows users to create and manage tables dynamically.
 
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
