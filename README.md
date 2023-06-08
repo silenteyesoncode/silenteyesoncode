@@ -6,7 +6,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm iMonk</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mayank</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💼 &nbsp;Founder of [The Unleashed Club](https://github.com/The-Unleashed-Club) - a community for tech enthusiasts and learners to collaborate and share knowledge.
