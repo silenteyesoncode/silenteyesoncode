@@ -18,7 +18,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at 7silenteyes007@gmail.com I'll try to respond as soon as I can.
 
-## Portfolio
+# [Portfolio](https://stirring-duckanoo-a6212f.netlify.app/)
 
 1. [Contango](https://wildwolf.io/contango/) - Web application that classifies news articles into categories and keeps track of past classification requests.
 2. [AI-Powered News Article Classifier](https://github.com/silenteyesoncode/AI-Powered-News-Article-Classifier-with-History) - Web application that classifies news articles into categories and keeps track of past classification requests.
