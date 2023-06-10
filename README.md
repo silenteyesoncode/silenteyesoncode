@@ -9,7 +9,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mayank</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💼 &nbsp;Founder of [The Unleashed Club](https://github.com/The-Unleashed-Club) - a community for tech enthusiasts and learners to collaborate and share knowledge.
+👨‍💼 &nbsp;Founder of **[The Unleashed Club](https://github.com/The-Unleashed-Club)** - a community for tech enthusiasts and learners to collaborate and share knowledge.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I Graduated with Information Technology at the JSSATE NOIDA 62.\
@@ -20,14 +20,14 @@
 
 # [Portfolio](https://stirring-duckanoo-a6212f.netlify.app/)
 
-1. [Contango](https://wildwolf.io/contango/) - Web application that classifies news articles into categories and keeps track of past classification requests.
-2. [AI-Powered News Article Classifier](https://github.com/silenteyesoncode/AI-Powered-News-Article-Classifier-with-History) - Web application that classifies news articles into categories and keeps track of past classification requests.
-3. [Portfoliyo](https://laughing-pike-46159b.netlify.app/) - Web application for company's landing page.
-4. [OpenMind](https://github.com/The-Unleashed-Club/openMind) - A chat app which helps you have better communication with people using OpenAI machinery.
-5. [GitHub User Finder](https://github.com/silenteyesoncode/Github_User_finder) - A web app that retrieves GitHub profiles by inputting the username.
-6. [E-corp](https://github.com/silenteyesoncode/E-corp) - An e-commerce web app that allows you to shop for clothing items.
-7. [Speech Text Reader](https://github.com/silenteyesoncode/speech-text-reader) - A text-to-speech app for non-verbal people, using the Web Speech API.
-8. [Table Management App](https://github.com/silenteyesoncode/Mob_DAT) - A mobile application built with Node.js that allows users to create and manage tables dynamically.
+1. [**Contango**](https://wildwolf.io/contango/) - Web application that classifies news articles into categories and keeps track of past classification requests.
+2. [**AI-Powered News Article Classifier**](https://github.com/silenteyesoncode/AI-Powered-News-Article-Classifier-with-History) - Web application that classifies news articles into categories and keeps track of past classification requests.
+3. [**Portfoliyo**](https://laughing-pike-46159b.netlify.app/) - Web application for company's landing page.
+4. [**OpenMind**](https://github.com/The-Unleashed-Club/openMind) - A chat app which helps you have better communication with people using OpenAI machinery.
+5. [**GitHub User Finder**](https://github.com/silenteyesoncode/Github_User_finder) - A web app that retrieves GitHub profiles by inputting the username.
+6. [**E-corp**](https://github.com/silenteyesoncode/E-corp) - An e-commerce web app that allows you to shop for clothing items.
+7. [**Speech Text Reader**](https://github.com/silenteyesoncode/speech-text-reader) - A text-to-speech app for non-verbal people, using the Web Speech API.
+8. [**Table Management App**](https://github.com/silenteyesoncode/Mob_DAT) - A mobile application built with Node.js that allows users to create and manage tables dynamically.
 
 
 
