@@ -20,7 +20,7 @@
 
 # [Portfolio](https://stirring-duckanoo-a6212f.netlify.app/)
 
-1. [**Contango**](https://wildwolf.io/contango/) - Web application that classifies news articles into categories and keeps track of past classification requests.
+1. [**Contango**](https://wildwolf.io/contango/) - Contango is a board game that allows you to grow your investment empire alongside other players. The goal is to hand pick investments that will reap rewards long into the future and help pave the way to financial freedom.
 2. [**AI-Powered News Article Classifier**](https://github.com/silenteyesoncode/AI-Powered-News-Article-Classifier-with-History) - Web application that classifies news articles into categories and keeps track of past classification requests.
 3. [**Portfoliyo**](https://laughing-pike-46159b.netlify.app/) - Web application for company's landing page.
 4. [**OpenMind**](https://github.com/The-Unleashed-Club/openMind) - A chat app which helps you have better communication with people using OpenAI machinery.
